@@ -1,1 +1,5 @@
 *.exe
+*.pyc
+.cache
+__pycache__
+euler
